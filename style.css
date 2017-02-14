@@ -1,0 +1,34 @@
+body{
+  background-image: url("http://s1.picswalls.com/wallpapers/2014/07/25/japan-backgrounds_043257803_108.jpg");
+  background-size: cover;
+  font-family: "Lucida Bright", serif;
+}
+
+.black-box{
+  width: 325px;
+  height: 325px;
+  margin-top: 50px;
+  text-align: center;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2{
+  padding-top: 15px;
+  font-family: "Lucida Bright", serif;
+  color: white;
+}
+
+p{
+  padding-top: 15px;
+  font-family: "Lucida Bright", serif;
+  color: white;
+}
+
+.flag-image{
+  content: url("http://static.giantbomb.com/uploads/square_small/0/1330/444893-800px_flag_of_japan.svg.png");
+  margin-top: 40px;
+  width: 100px;
+  border-radius: 50%;
+}
